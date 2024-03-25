@@ -1,0 +1,14 @@
+C:\Users\Youssef Amr\Desktop\Projects\ChatServer\SocketServer\bin\Debug\net8.0\SocketServer.exe
+C:\Users\Youssef Amr\Desktop\Projects\ChatServer\SocketServer\bin\Debug\net8.0\SocketServer.deps.json
+C:\Users\Youssef Amr\Desktop\Projects\ChatServer\SocketServer\bin\Debug\net8.0\SocketServer.runtimeconfig.json
+C:\Users\Youssef Amr\Desktop\Projects\ChatServer\SocketServer\bin\Debug\net8.0\SocketServer.dll
+C:\Users\Youssef Amr\Desktop\Projects\ChatServer\SocketServer\bin\Debug\net8.0\SocketServer.pdb
+C:\Users\Youssef Amr\Desktop\Projects\ChatServer\SocketServer\obj\Debug\net8.0\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef Amr\Desktop\Projects\ChatServer\SocketServer\obj\Debug\net8.0\SocketServer.AssemblyInfoInputs.cache
+C:\Users\Youssef Amr\Desktop\Projects\ChatServer\SocketServer\obj\Debug\net8.0\SocketServer.AssemblyInfo.cs
+C:\Users\Youssef Amr\Desktop\Projects\ChatServer\SocketServer\obj\Debug\net8.0\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Amr\Desktop\Projects\ChatServer\SocketServer\obj\Debug\net8.0\SocketServer.dll
+C:\Users\Youssef Amr\Desktop\Projects\ChatServer\SocketServer\obj\Debug\net8.0\refint\SocketServer.dll
+C:\Users\Youssef Amr\Desktop\Projects\ChatServer\SocketServer\obj\Debug\net8.0\SocketServer.pdb
+C:\Users\Youssef Amr\Desktop\Projects\ChatServer\SocketServer\obj\Debug\net8.0\SocketServer.genruntimeconfig.cache
+C:\Users\Youssef Amr\Desktop\Projects\ChatServer\SocketServer\obj\Debug\net8.0\ref\SocketServer.dll
